@@ -1,0 +1,45 @@
+#header{
+    background-color:greenyellow;
+    color:white;
+}
+#Admin-Dashboard{
+
+background-color:white;
+color:black;
+}
+.sidebar-link li{
+ text-decoration: none;
+ list-style-type:none;
+ padding: 8px 2px;
+ font-size: 17px;
+ 
+}
+.sidebar-link a{
+    text-decoration: none;
+    color: black;
+}
+#Admin-Dashaboard{
+    color: white;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+#in{
+    float: right;
+}
+body{
+    margin: 0;
+  padding: 0;
+  background-color: #00a65a;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+#chart{
+height: 2000px;
+overflow: hidden;
+width: 300px;
+}
+#aa{
+    background-color: white;
+
+}
